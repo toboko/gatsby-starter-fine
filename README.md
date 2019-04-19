@@ -1,12 +1,20 @@
 # gatsby-starter-hello-world
 Starter with the bare essentials needed for a [Gatsby](https://www.gatsbyjs.org/) site.
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-```
-gatsby new gatsby-site https://github.com/gatsbyjs/gatsby-starter-hello-world
-```
-
-Or [view the live demo here](https://gatsby-starter-hello-world-demo.netlify.com/).
+##ELements
+- 404
+- Sitemap Url ({siteUrl}/sitemap.xml)
+- Multi Category
+- Remark Images
+- React Helmet
 
 ## Running in development
 `gatsby develop`
+or
+`npm run-script develop`
+
+## Running in test
+`npm start`
+
+## Running in production
+`npm run-script build `
